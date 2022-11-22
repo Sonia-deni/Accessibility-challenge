@@ -8,7 +8,7 @@ This project aims to improve the accessibility of an existing web page. The orig
 ## Usage
 
 Here is a mock up of the page:
-    ![screenshot of horiseon webpage](assets/images/screenshot.png)
+    ![screenshot of horiseon webpage](assets/images/Screenshot.png)
   
 
 ## Credits
